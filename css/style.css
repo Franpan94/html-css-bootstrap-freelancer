@@ -36,12 +36,8 @@
     background-color: rgb(60, 58, 58);
 }
 
-.ms2_width{
-    width: 500px;
-}
-
-.ms_p8{
-    padding: 80px;
+.ms_pt8{
+    padding-top: 80px;
 }
 
 .ms_border_color{

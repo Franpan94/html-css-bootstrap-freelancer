@@ -2,6 +2,10 @@
     background-color: mediumturquoise;
 }
 
+.s_color{
+    color: mediumturquoise;
+}
+
 .ms_color{
     color: white;
 }
@@ -24,12 +28,24 @@
     background-color: black;
 }
 
+.ms_colorb{
+    color: black;
+}
+
+.msbg_colorc{
+    background-color: rgb(60, 58, 58);
+}
+
 .ms2_width{
-    width: 1250px;
+    width: 500px;
 }
 
 .ms_p8{
     padding: 80px;
+}
+
+.ms_border_color{
+    border: 1px solid white;
 }
 
 

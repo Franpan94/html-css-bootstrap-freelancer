@@ -48,8 +48,8 @@
     background-color: rgb(60, 58, 58);
 }
 
-.ms_pt8{
-    padding-top: 80px;
+.ms_pt10{
+    padding-top: 100px;
 }
 
 .ms_border_color{
@@ -65,6 +65,30 @@
 .ms_border{
     border: 0;
 }
+
+.ms_height{
+    height: 295px;
+    width: 407px;
+    cursor: pointer;
+    font-size: 100px;
+    display: none;
+}
+
+.ms_position_absolute{
+    position: absolute;
+    top: 1001px;
+    left: 124px;
+}
+
+.ms_display:hover .ms_height{
+    display: block;
+}
+
+.ms_fontsize{
+    font-size: 20px;
+}
+
+
 
 
 

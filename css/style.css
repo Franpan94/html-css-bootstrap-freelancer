@@ -67,8 +67,8 @@
 }
 
 .ms_height{
-    height: 295px;
-    width: 407px;
+    height: 100%;
+    width: 100%;
     cursor: pointer;
     font-size: 100px;
     display: none;
@@ -76,8 +76,8 @@
 
 .ms_position_absolute{
     position: absolute;
-    top: 1001px;
-    left: 124px;
+    top: 0;
+    left: 0;
 }
 
 .ms_display:hover .ms_height{
